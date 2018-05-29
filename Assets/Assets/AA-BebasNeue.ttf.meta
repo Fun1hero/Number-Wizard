@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ee1c99d5b409b4403bfa538ffabc7876
+timeCreated: 1527068412
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: AA Bebas Neue
+  fontNames:
+  - AA Bebas Neue
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
